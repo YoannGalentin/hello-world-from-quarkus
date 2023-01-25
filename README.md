@@ -5,7 +5,7 @@ Source code for a Hello, World ! Quarkus application
 
 To open the workspace, simply click on the *Open in Gitpod* button, or use [this link](https://gitpod.io/#https://github.com/k8s-operator-workshop/hello-world-from-quarkus).
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/k8s-operator-workshop/hello-world-from-quarkus)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/YoannGalentin/hello-world-from-quarkus)
 
 ## Workshop steps
 
